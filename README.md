@@ -24,4 +24,4 @@ Follow the getting started guide here: (http://kemalcr.com/docs/getting_started/
 
 ## Contributors
 
-- [[VinnieVendemia]](https://github.com/[VinnieVendemia]) Vinnie Vendemia - creator, maintainer
+- [VinnieVendemia](https://github.com/[VinnieVendemia]) Vinnie Vendemia - creator, maintainer
