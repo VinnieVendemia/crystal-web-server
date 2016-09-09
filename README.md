@@ -1,26 +1,22 @@
 # crystal-web-server
 
-TODO: Write a description here
+A simple web-server to test out the crystal language
 
 ## Installation
 
-
-TODO: Write installation instructions here
-
+Follow the getting started guide here: (http://kemalcr.com/docs/getting_started/)
 
 ## Usage
 
-
-
-TODO: Write usage instructions here
+> TODO
 
 ## Development
 
-TODO: Write development instructions here
+> TODO
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/crystal-web-server/fork )
+1. Fork it ( https://github.com/[VinnieVendemia]/crystal-web-server/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -28,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Vinnie Vendemia - creator, maintainer
+- [[your-github-name]](https://github.com/[VinnieVendemia]) Vinnie Vendemia - creator, maintainer
