@@ -1,5 +1,8 @@
 require "./crystal-web-server/*"
+require "kemal"
 
-module Crystal::Web::Server
-  # TODO Put your code here
+get "/" do
+  "Hello World!"
 end
+
+Kemal.run
